@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Profile views](https://gpvc.arturio.dev/mammubarak)
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
