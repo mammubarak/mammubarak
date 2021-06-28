@@ -10,8 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![mammubarak GitHub stats](https://github-readme-stats.vercel.app/api?username=mammubarak&count_private=true&show_icons=true&theme=radical)](https://github.com/mammubarak/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mammubarak)](https://github.com/mammubarak/github-readme-stats)
+[![mammubarak GitHub stats](https://github-readme-stats.vercel.app/api?username=mammubarak&count_private=true&show_icons=true&theme=radical)](https://github.com/mammubarak/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mammubarak&langs_count=10&theme=radical&layout=compact)](https://github.com/mammubarak/github-readme-stats)
 
 
