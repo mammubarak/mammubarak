@@ -10,5 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![mammubarak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mammubarak&count_private=true)](https://github.com/mammubarak/github-readme-stats)
+[![mammubarak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mammubarak&count_private=true&show_icons=true)](https://github.com/mammubarak/github-readme-stats)
+
 
