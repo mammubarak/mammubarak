@@ -1,4 +1,5 @@
-### Hi I am Mubarak     <img  src="wave.gif" width="40px"  height="50px"  />  <img  src="srilanka.gif" width="20px"  height="15px"  />    <br> <img  src="daftpunktocat-guy.gif" height="110px" />
+### Hi, I am Mohamed Mubarak     <img  src="wave.gif" width="40px"  height="40px"  />    
+<br> <img  src="daftpunktocat-guy.gif" height="110px" />
 
 
 ![Profile views](https://gpvc.arturio.dev/mammubarak)                                                                     
@@ -11,8 +12,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  
+ 
+
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mammubarak&langs_count=10&theme=radical&layout=compact&bg_color=0D1117&border_color=0D1117)](https://github.com/mammubarak/github-readme-stats)  [![mammubarak GitHub stats](https://github-readme-stats.vercel.app/api?username=mammubarak&count_private=true&show_icons=true&theme=radical&bg_color=0D1117&border_color=0D1117)](https://github.com/mammubarak/github-readme-stats)                         
+ 
+ 
+
  
  
  
