@@ -1,4 +1,4 @@
-### Hi I am Mubarak       <img  src="srilanka.gif" width="20px"  height="15px"  />  <img  src="giphy.gif" width="20px"  height="15px"  />  <br> <img  src="daftpunktocat-guy.gif" height="110px" />
+### Hi I am Mubarak     <img  src="giphy.gif" width="40px"  height="50px"  />  <img  src="srilanka.gif" width="20px"  height="15px"  />    <br> <img  src="daftpunktocat-guy.gif" height="110px" />
 
 
 ![Profile views](https://gpvc.arturio.dev/mammubarak)                                                                     
