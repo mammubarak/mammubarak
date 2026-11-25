@@ -2,24 +2,11 @@
 
 🔐 What I'm Currently Focusing On
 <br>
-<br>💻 Building full-stack web applications and backend systems./>
+<br>💻 Building full-stack web applications and backend systems.
 <br>🛡️ Exploring application security, web vulnerabilities, and secure coding practices.
 <br>🔍 Learning about authentication, authorization, API security, and OWASP Top 10.
 <br>⚙️ Developing practical cybersecurity tools and security automation projects.
 <br>🚀 Improving my software engineering skills through hands-on projects.
-
-🎯 My Goals
-<br>
-<br>My goal is to become a Security-Focused Full-Stack Software Engineer, building applications where security is an essential part of the development process.
-<br>I'm always open to collaborating on interesting software engineering and cybersecurity projects, learning from others, and connecting with people who share similar interests.
-<br>Let's build software that works well and is secure by design! 🔐
-
-🛠️ Technologies & Interests
-<br>
-<br>Development: Full-Stack Development, Backend Engineering, REST APIs
-<br>Cybersecurity: Application Security, Web Security, OWASP Top 10
-<br>Engineering: Secure Coding, Authentication, API Security
-<br>Interests: Cybersecurity Tools, Security Automation, Open Source
 
 🤝 Let's Connect
 <br>
