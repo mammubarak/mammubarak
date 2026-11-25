@@ -1,4 +1,29 @@
-### Hi, I am Mohamed Mubarak <img  src="wave.gif" width="40px"  height="40px"  />, studying computer science in NSBM Green University. I am excited to be starting my journey in the field of Devops Engineering, and I am eager to learn more about how this technology can be used to solve real-world problems. I am currently seeking an internship opportunity to gain hands-on experience with devops tools and technologies. My goal is to become proficient in the field and develop my skills to contribute to the industry in the future. I am eager to work with experienced professionals to expand my understanding and knowledge of devops engineering, and I am looking forward to the opportunity to work on a team and learn from my peers. If you have an opportunity for an intern in devops engineering, please feel free to connect with me on LinkedIn or reach out to me directly.          
+### Hi, I am Mohamed Mubarak <img  src="wave.gif" width="40px"  height="40px"  />, I'm a Computer Science student at NSBM Green University, passionate about building modern software applications with security at their core.I'm currently focusing on Full-Stack Software Engineering and Cybersecurity, exploring how secure coding practices, application security, and modern web technologies come together to build reliable and secure software.I believe in learning by building. I'm actively developing practical cybersecurity tools and security-focused full-stack applications to strengthen my engineering skills and solve real-world problems.
+
+🔐 What I'm Currently Focusing On
+
+💻 Building full-stack web applications and backend systems.
+🛡️ Exploring application security, web vulnerabilities, and secure coding practices.
+🔍 Learning about authentication, authorization, API security, and OWASP Top 10.
+⚙️ Developing practical cybersecurity tools and security automation projects.
+🚀 Improving my software engineering skills through hands-on projects.
+
+🎯 My Goals
+My goal is to become a Security-Focused Full-Stack Software Engineer, building applications where security is an essential part of the development process.
+I'm always open to collaborating on interesting software engineering and cybersecurity projects, learning from others, and connecting with people who share similar interests.
+Let's build software that works well and is secure by design! 🔐
+
+🛠️ Technologies & Interests
+Development: Full-Stack Development, Backend Engineering, REST APIs
+Cybersecurity: Application Security, Web Security, OWASP Top 10
+Engineering: Secure Coding, Authentication, API Security
+Interests: Cybersecurity Tools, Security Automation, Open Source
+
+🤝 Let's Connect
+I'm always interested in connecting with developers, cybersecurity enthusiasts, and people building meaningful technology.
+💼 LinkedIn: www.linkedin.com/in/mohamed-mubarak-lk
+🐙 GitHub: @mammubarak
+
 <br> <img  src="daftpunktocat-guy.gif" height="110px" />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mammubarak&langs_count=10&theme=radical&layout=compact&bg_color=0D1117&border_color=0D1117)](https://github.com/mammubarak/github-readme-stats)  [![mammubarak GitHub stats](https://github-readme-stats.vercel.app/api?username=mammubarak&count_private=true&show_icons=true&theme=radical&bg_color=0D1117&border_color=0D1117)](https://github.com/mammubarak/github-readme-stats)                         
  <!--
